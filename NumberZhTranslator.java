@@ -1,4 +1,4 @@
-package com.supwisdom.eams.infras.number;
+package me.number.zh.translator;
 
 
 /**

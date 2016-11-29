@@ -1,9 +1,9 @@
-package com.supwisdom.eams.infras.number;
+package me.number.zh.translator;
 
 import org.testng.annotations.Test;
 
-import static com.supwisdom.eams.infras.number.NumberZhTranslator.translateNumber;
-import static com.supwisdom.eams.infras.number.NumberZhTranslator.translateNumberDirect;
+import static me.number.zh.translator.NumberZhTranslator.translateNumber;
+import static me.number.zh.translator.NumberZhTranslator.translateNumberDirect;
 import static org.testng.Assert.assertEquals;
 
 /**
